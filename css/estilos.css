@@ -1,0 +1,41 @@
+body {
+    background-image: url("https://cdn.pixabay.com/photo/2013/07/12/17/49/motherboard-152501__340.png  ");
+     
+    background-size:auto 100vh;   
+    height: 100vh;
+    font-family:arial;
+  }
+  
+  .menu{
+    background:white;
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  .menu li {
+    list-style:none;
+    
+  }
+  
+  {
+    font-family:arial;
+  }
+  
+  a {
+    color:teal;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  .site-subtitle,
+  .site-title {
+    color:whitesmoke;
+      text-align: center;
+  }
+  .site-subtitle {
+    font-style: italic;
+  }
